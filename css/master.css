@@ -190,6 +190,7 @@ body {
 .header .container .toggle-menu {
     position: relative;
     display: none;
+    z-index: 999;
 }
 @media (max-width: 767px) {
     .header .container .toggle-menu {
